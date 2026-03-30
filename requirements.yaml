@@ -1,0 +1,19 @@
+packages:
+  "framer-motion": "For premium smooth scroll animations and page transitions"
+  "react-hook-form": "For form state management in the contact section"
+  "@hookform/resolvers": "For Zod schema validation integration"
+  "clsx": "For class name merging"
+  "tailwind-merge": "For class name merging"
+
+images:
+  - path: "artifacts/cotazero/public/images/hero-visual.png"
+    description: "Clean minimal architectural 3d rendering, abstract white and light gray geometric structures with subtle teal and mint lighting accents, premium engineering studio aesthetic, lots of negative space"
+    aspect_ratio: "16:9"
+  - path: "artifacts/cotazero/public/images/about-visual.png"
+    description: "Abstract architectural blueprint lines over a soft white and gray gradient background, modern engineering concept, minimalist, subtle teal accents"
+    aspect_ratio: "4:3"
+
+notes:
+  - Frontend-only application, no backend integration required for the contact form
+  - Smooth scrolling implemented via CSS
+  - Project placeholders use CSS gradients and patterns to match the brand aesthetic as requested
